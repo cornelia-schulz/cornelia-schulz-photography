@@ -16,6 +16,10 @@ p a:visited {
 	color: white;
 }
 
+p a:hover {
+	color: #7A7A7A;
+}
+
 li a{
 	text-decoration: none;
 	color: #7A7A7A;

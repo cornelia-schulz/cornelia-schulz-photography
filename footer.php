@@ -15,8 +15,7 @@
 		<div class="credits one-third column">
 			<table>
 				<tr>
-					<td>Cornelia Schulz Photography &copy 2014-17</td>
-					
+					<td>Cornelia Schulz Photography &copy 2014-21</td>		
 				</tr>
 			</table>
 		</div>
